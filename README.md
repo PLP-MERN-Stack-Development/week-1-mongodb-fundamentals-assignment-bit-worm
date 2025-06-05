@@ -3,6 +3,9 @@
 
 This assignment focuses on learning MongoDB fundamentals including setup, CRUD operations, advanced queries, aggregation pipelines, and indexing.
 
+## Preview
+![a screenshot of MongoDB Compass showing collections and sample data](assets/screenshot.png)
+
 ## Assignment Overview
 
 You will:
